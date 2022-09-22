@@ -4,9 +4,9 @@ A linked list consists of nodes where each node contains a data field and a refe
 
 ![](../.gitbook/assets/image.png)
 
-## Implementation in C++ using Class:
+### Implementation in C++ using Class:
 
-Node
+#### Node
 
 ```cpp
 class Node {
@@ -28,7 +28,7 @@ public:
 };
 ```
 
-Linked List Class:
+#### Linked List Class:
 
 ```cpp
 class LinkedList {
@@ -46,7 +46,7 @@ public:
 };
 ```
 
-Insert function:
+#### Insert function:
 
 ```cpp
 void LinkedList::insertNode(int data) {
@@ -66,7 +66,7 @@ void LinkedList::insertNode(int data) {
 }
 ```
 
-Delete node function:
+#### Delete node function:
 
 ```cpp
 void LinkedList::deleteNode(int position) {
@@ -102,7 +102,7 @@ void LinkedList::deleteNode(int position) {
 }
 ```
 
-Print list function:
+#### Print list function:
 
 ```cpp
 void LinkedList::printList() {
@@ -117,7 +117,7 @@ void LinkedList::printList() {
 }
 ```
 
-Example main program:
+#### Example main program:
 
 ```cpp
 int main() {
