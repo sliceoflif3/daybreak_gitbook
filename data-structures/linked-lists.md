@@ -2,7 +2,7 @@
 
 A linked list consists of nodes where each node contains a data field and a reference(link) to the next node in the list.
 
-![](../.gitbook/assets/image.png)
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Implementation in C++ using Class:
 
