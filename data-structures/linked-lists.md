@@ -1,8 +1,8 @@
-# Linked Lists
+# ⛓ Linked Lists
 
 A linked list consists of nodes where each node contains a data field and a reference(link) to the next node in the list.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ### Implementation in C++ using Class:
 
