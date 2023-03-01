@@ -9,7 +9,7 @@ The steps for implementing Merge Sort are as follows:
 * **Merge the sorted halves:** Once each half of the data is sorted, the two halves are merged back into one final sorted array. The merging process involves comparing the first elements of each half and inserting the smaller element into the final array. This process continues until one of the halves is empty. The remaining elements of the other half are then inserted into the final array.
 * **Repeat the process until the entire data is sorted:** The Merge Sort function is called recursively until the entire data set is sorted.
 
-<img src="../.gitbook/assets/image (2).png" alt="" data-size="original">
+<figure><img src="https://leetcode.com/problems/sort-an-array/Figures/912/Slide2.PNG" alt=""><figcaption></figcaption></figure>
 
 ## **Algorithm**
 
