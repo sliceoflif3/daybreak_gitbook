@@ -319,7 +319,8 @@ void insert(Node*&root, int&x, Node*&tNode1, Node*&tNode2){
     if (root -> right_val != -1)
         cout &#x3C;&#x3C; root -> right_val &#x3C;&#x3C; ' ';
     preOrder(root -> rightNode);
-}</code></pre>
+}
+</code></pre>
 
 #### Print
 
@@ -389,7 +390,7 @@ After you insert/delete:
     <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 *   Left right case:&#x20;
 
-    <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 *   Right right case:&#x20;
 
     <figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
@@ -421,7 +422,8 @@ Node *rightRotate(Node *y)
     x->right = T2;
     // Return new root
     return y;
-}</code></pre>
+}
+</code></pre>
 
 ### 2-3-4 tree
 
@@ -474,7 +476,8 @@ If tree -> data = val OR tree = NULL
     [ End of if ]
 [ End of if ]
 
-Step 2: END</code></pre>
+Step 2: END
+</code></pre>
 
 #### Insertion
 

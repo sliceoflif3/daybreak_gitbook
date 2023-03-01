@@ -8,3 +8,4 @@
 * [⛓ Linked Lists](data-structures/linked-lists.md)
 * [🌳 Trees](data-structures/trees.md)
 * [3 Tries](data-structures/tries.md)
+* [🐳 Merge Sort](data-structures/merge-sort.md)
